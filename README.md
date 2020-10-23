@@ -10,6 +10,7 @@ A developer-focused workshop focused on Red Hat Fuse / Apache Camel.
 * Connecting to database backends
 * Using message queues
 * Build/deploy locally and to OpenShift
+* Fuse Console on OpenShift
 
 ## Bonus
 
